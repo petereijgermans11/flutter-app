@@ -5,6 +5,7 @@ import './widgets/transaction_list.dart';
 import './widgets/chart.dart';
 import './models/transaction.dart';
 
+//Inflate the given widget and attach it to the screen.
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
